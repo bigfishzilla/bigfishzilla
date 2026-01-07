@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## **✨ Welcome to my silly lil page ✨**
+Here I will collect all my projects and other stuff.
+## **🌌 About me 🌌**
+- Name: Rico
+- Age: 23
+- Job: System Administrator
+- Hobbies: Bouldering, Gaming, Tinkering and Coding
+- Programming Languages: Python and C++
 <!--
 **bigfishzilla/bigfishzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
