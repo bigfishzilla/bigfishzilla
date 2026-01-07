@@ -6,7 +6,13 @@ Here I will collect all my projects and other stuff.
 - Job: System Administrator
 - Hobbies: Bouldering, Gaming, Tinkering and Coding
 - Programming Languages: Python and C++
-<!--
+## **🌠 Current Projects 🌠**
+1. **Home Lab**
+   - Setting up Immich and Paperless.ngx.
+
+2. **Wifi/Bluetooth Jammer**
+   - Bulding a Wifi/Bluetooth Jammer with a pi zero 2 w for educational purposes.
+<!--.
 **bigfishzilla/bigfishzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
